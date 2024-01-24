@@ -1,8 +1,8 @@
 ### hi 오진희 입니다. 👋
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjinhee5577)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkrafjin56)](https://hits.seeyoufarm.com)
 <!--
-**jinhee5577/jinhee5577** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**krafjin56/krafjin56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code-blue)
 
 Here are some ideas to get you started:
