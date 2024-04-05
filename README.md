@@ -29,7 +29,7 @@
 <br>
 
 # PROJECT
-1. ## 진희팀 - PLAYSCENT
+1 ## 진희팀 - PLAYSCENT
 - 개발 기간 : 2024.02.23 ~ 2004.04.02
  - 서비스 명 : 빅테이터 기반 개인 맞춤 향수 추천 판매 서비스를 기획 개발.
      - 역활 : PLAYSCENT팀 전체 BACK-END, FRONT-END, 총괄 PM
