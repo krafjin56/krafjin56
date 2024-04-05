@@ -12,14 +12,14 @@
 
 <br>
 # Slills
-### Back-end
+ ### Back-end
 - JAVA, Node.js, Express, Servlets, Eclipse, Apache Tomcat,
 - FireBase, GoogleCloud
 <br>
-### Front-end
+ ### Front-end
 - Javascript, React.js, React-Redux, HTML5/CSS3
 <br>
-### Database
+ ### Database
 - ORACLE, MongoDB, Mybatis
 
 
@@ -29,11 +29,6 @@
 <!--
 **krafjin56/krafjin56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code-blue)
-
-
-
-
-
 
 
 Here are some ideas to get you started:
