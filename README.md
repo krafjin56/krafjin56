@@ -9,9 +9,8 @@
   미쳐 앞으로 더욱더 높은 퀄리티의 아웃풋을 만들어 내고 싶습니다.
 - 에러를 해결한 벨로그 기록입니다: https://velog.io/@diorjj/posts
 
-<br>
-<br>
 
+<br>
 # Slills
 ### Back-end
 - JAVA, Node.js, Express, Servlets, Eclipse, Apache Tomcat,
