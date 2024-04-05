@@ -7,12 +7,11 @@
   풀스택 개발자로 또한번 상상을 구체화 시켜 보고싶습니다.
 - ⚡무엇보다 하나에 빠지면 그분야를 끝까지 파버리는 몰두형 사람이라 현재는 java와 javascript, 좋은 로직에<br>
   미쳐 앞으로 더욱더 높은 퀄리티의 아웃풋을 만들어 내고 싶습니다.
-- 에러를 해결한 벨로그 기록입니다: https://velog.io/@diorjj/posts 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkrafjin56)](https://hits.seeyoufarm.com)
-<!--
-**krafjin56/krafjin56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code-blue)
+- 에러를 해결한 벨로그 기록입니다: https://velog.io/@diorjj/posts
 
+<br>
+<br>
+<br>
 
 # Slills
 >> ### Back-end
@@ -24,6 +23,16 @@
 <br>
 >> ### Database
 - ORACLE, MongoDB, Mybatis
+
+
+<br>
+----
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkrafjin56)](https://hits.seeyoufarm.com)
+<!--
+**krafjin56/krafjin56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code-blue)
+
+
 
 
 
