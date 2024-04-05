@@ -12,6 +12,7 @@
 # 🪪Contact & Channel
 - 에러를 해결한 벨로그 기록입니다: https://velog.io/@diorjj/posts
 - E-mail: riricos153@naver.com
+- github: https://github.com/krafjin56
 
 # Slills
  ### Back-end
@@ -23,31 +24,15 @@
 
 ### Database
 - ORACLE, MongoDB, Mybatis
-
+----
 
 <br>
 ----
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkrafjin56)](https://hits.seeyoufarm.com)
-<!--
-**krafjin56/krafjin56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code-blue)
 
+# PROJECT
+|제목|내용|설명|
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-[![github stats](https://github-readme-stats.vercel.app/api?username=krafjin56&show_icons=true&hide_border=true)](https://github.com/shinplest)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krafjin56&layout=compact)](https://github.com/shinplest)
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Javascript-0095D5?style=flat-square&logo=Javascript&logoColor=yellow"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/node.js-007396?style=flat-square&logo=node.js&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/c++-007396?style=flat-square&logo=c++&logoColor=white"/></a>
+|------|---|---|
+|테스트1|테스트2|테스트3|
+|테스트1|테스트2|테스트3|
+|테스트1|테스트2|테스트3|
