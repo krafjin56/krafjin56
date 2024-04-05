@@ -40,8 +40,8 @@
     <td>진희팀 - PLAYSCENT</td>
     <td>2024.02.23 ~ 2004.04.02</td>
     <td>
-     - ## 서비스 명 : 빅테이터 기반 개인 맞춤 향수 추천 판매 서비스를 기획 개발.
-     - ### 역활 : PLAYSCENT팀 전체 BACK-END, FRONT-END, 총괄 PM
+     - 서비스 명 : 빅테이터 기반 개인 맞춤 향수 추천 판매 서비스를 기획 개발.
+     - 역활 : PLAYSCENT팀 전체 BACK-END, FRONT-END, 총괄 PM
      - PLAYSCENT 사이트 메인 장바구니의 (BACK-END, FRONT-END) 모든 기능개발 구현, DB연동 구현.
      - 최종 제품 주문/결제 기능개발, DB연동, PortOneAPI연동하여 선택품목 간편결제 기능까지 기능 개발.
      - 네이버 로그인,로그아웃 API 활용하여 -> 회원가입, 로그인, 로그아웃 기능 구현. 
