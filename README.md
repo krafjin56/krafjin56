@@ -15,11 +15,11 @@
  ### Back-end
 - JAVA, Node.js, Express, Servlets, Eclipse, Apache Tomcat,
 - FireBase, GoogleCloud
-<br>
- ### Front-end
+
+### Front-end
 - Javascript, React.js, React-Redux, HTML5/CSS3
-<br>
- ### Database
+
+### Database
 - ORACLE, MongoDB, Mybatis
 
 
