@@ -8,11 +8,6 @@
 - ⚡무엇보다 하나에 빠지면 그분야를 끝까지 파버리는 몰두형 사람이라 현재는 java와 javascript, 좋은 로직에<br>
   미쳐 앞으로 더욱더 높은 퀄리티의 아웃풋을 만들어 내고 싶습니다.
 ----
-
-# 🪪Contact & Channel
-- 에러를 해결한 벨로그 기록입니다: https://velog.io/@diorjj/posts
-- E-mail: riricos153@naver.com
-- github: https://github.com/krafjin56
   
 # ⛏Slills
  ### Back-end
